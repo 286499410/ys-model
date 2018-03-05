@@ -1,0 +1,22 @@
+{
+  "name": "ys-model",
+  "version": "1.0.0",
+  "description": "model",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/286499410/ys-model.git"
+  },
+  "keywords": [
+    "model"
+  ],
+  "author": "Joey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/286499410/ys-model/issues"
+  },
+  "homepage": "https://github.com/286499410/ys-model#readme"
+}
